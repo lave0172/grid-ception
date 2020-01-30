@@ -1,6 +1,6 @@
 /*
   Gridifier || Code released under the UNLICENSE
-  https://gridifier.web-dev.tools/#xs,4,0,1,1;s,4,25,1,1;m,4,38,1,1;l,4,60,1,1;xl,4,80,1,1
+  https://gridifier.web-dev.tools/#xs,4,0,0,0;s,4,25,0,0;m,4,38,0,0;l,4,60,0,0;xl,4,80,0,0
 */
 
 .grid {
@@ -141,30 +141,9 @@
   width: 100%;
 }
 
-.unit-offset-xs-0 {
-  margin-left: 0;
-}
-
-.unit-push-xs-0,
-.unit-pull-xs-0 {
-  left: 0;
-}
-
 .unit-xs-1-2,
 .xs-1-2 {
   width: 50%;
-}
-
-.unit-offset-xs-1-2 {
-  margin-left: 50%;
-}
-
-.unit-push-xs-1-2 {
-  left: 50%;
-}
-
-.unit-pull-xs-1-2 {
-  left: -50%;
 }
 
 .unit-xs-1-3,
@@ -172,33 +151,9 @@
   width: 33.3333%;
 }
 
-.unit-offset-xs-1-3 {
-  margin-left: 33.3333%;
-}
-
-.unit-push-xs-1-3 {
-  left: 33.3333%;
-}
-
-.unit-pull-xs-1-3 {
-  left: -33.3333%;
-}
-
 .unit-xs-2-3,
 .xs-2-3 {
   width: 66.6667%;
-}
-
-.unit-offset-xs-2-3 {
-  margin-left: 66.6667%;
-}
-
-.unit-push-xs-2-3 {
-  left: 66.6667%;
-}
-
-.unit-pull-xs-2-3 {
-  left: -66.6667%;
 }
 
 .unit-xs-1-4,
@@ -206,33 +161,9 @@
   width: 25%;
 }
 
-.unit-offset-xs-1-4 {
-  margin-left: 25%;
-}
-
-.unit-push-xs-1-4 {
-  left: 25%;
-}
-
-.unit-pull-xs-1-4 {
-  left: -25%;
-}
-
 .unit-xs-3-4,
 .xs-3-4 {
   width: 75%;
-}
-
-.unit-offset-xs-3-4 {
-  margin-left: 75%;
-}
-
-.unit-push-xs-3-4 {
-  left: 75%;
-}
-
-.unit-pull-xs-3-4 {
-  left: -75%;
 }
 
 .unit-xs-1-2,
@@ -347,30 +278,9 @@
     width: 100%;
   }
 
-  .unit-offset-s-0 {
-    margin-left: 0;
-  }
-
-  .unit-push-s-0,
-  .unit-pull-s-0 {
-    left: 0;
-  }
-
   .unit-s-1-2,
   .s-1-2 {
     width: 50%;
-  }
-
-  .unit-offset-s-1-2 {
-    margin-left: 50%;
-  }
-
-  .unit-push-s-1-2 {
-    left: 50%;
-  }
-
-  .unit-pull-s-1-2 {
-    left: -50%;
   }
 
   .unit-s-1-3,
@@ -378,33 +288,9 @@
     width: 33.3333%;
   }
 
-  .unit-offset-s-1-3 {
-    margin-left: 33.3333%;
-  }
-
-  .unit-push-s-1-3 {
-    left: 33.3333%;
-  }
-
-  .unit-pull-s-1-3 {
-    left: -33.3333%;
-  }
-
   .unit-s-2-3,
   .s-2-3 {
     width: 66.6667%;
-  }
-
-  .unit-offset-s-2-3 {
-    margin-left: 66.6667%;
-  }
-
-  .unit-push-s-2-3 {
-    left: 66.6667%;
-  }
-
-  .unit-pull-s-2-3 {
-    left: -66.6667%;
   }
 
   .unit-s-1-4,
@@ -412,33 +298,9 @@
     width: 25%;
   }
 
-  .unit-offset-s-1-4 {
-    margin-left: 25%;
-  }
-
-  .unit-push-s-1-4 {
-    left: 25%;
-  }
-
-  .unit-pull-s-1-4 {
-    left: -25%;
-  }
-
   .unit-s-3-4,
   .s-3-4 {
     width: 75%;
-  }
-
-  .unit-offset-s-3-4 {
-    margin-left: 75%;
-  }
-
-  .unit-push-s-3-4 {
-    left: 75%;
-  }
-
-  .unit-pull-s-3-4 {
-    left: -75%;
   }
 
   .unit-s-1-2,
@@ -555,30 +417,9 @@
     width: 100%;
   }
 
-  .unit-offset-m-0 {
-    margin-left: 0;
-  }
-
-  .unit-push-m-0,
-  .unit-pull-m-0 {
-    left: 0;
-  }
-
   .unit-m-1-2,
   .m-1-2 {
     width: 50%;
-  }
-
-  .unit-offset-m-1-2 {
-    margin-left: 50%;
-  }
-
-  .unit-push-m-1-2 {
-    left: 50%;
-  }
-
-  .unit-pull-m-1-2 {
-    left: -50%;
   }
 
   .unit-m-1-3,
@@ -586,33 +427,9 @@
     width: 33.3333%;
   }
 
-  .unit-offset-m-1-3 {
-    margin-left: 33.3333%;
-  }
-
-  .unit-push-m-1-3 {
-    left: 33.3333%;
-  }
-
-  .unit-pull-m-1-3 {
-    left: -33.3333%;
-  }
-
   .unit-m-2-3,
   .m-2-3 {
     width: 66.6667%;
-  }
-
-  .unit-offset-m-2-3 {
-    margin-left: 66.6667%;
-  }
-
-  .unit-push-m-2-3 {
-    left: 66.6667%;
-  }
-
-  .unit-pull-m-2-3 {
-    left: -66.6667%;
   }
 
   .unit-m-1-4,
@@ -620,33 +437,9 @@
     width: 25%;
   }
 
-  .unit-offset-m-1-4 {
-    margin-left: 25%;
-  }
-
-  .unit-push-m-1-4 {
-    left: 25%;
-  }
-
-  .unit-pull-m-1-4 {
-    left: -25%;
-  }
-
   .unit-m-3-4,
   .m-3-4 {
     width: 75%;
-  }
-
-  .unit-offset-m-3-4 {
-    margin-left: 75%;
-  }
-
-  .unit-push-m-3-4 {
-    left: 75%;
-  }
-
-  .unit-pull-m-3-4 {
-    left: -75%;
   }
 
   .unit-m-1-2,
@@ -763,30 +556,9 @@
     width: 100%;
   }
 
-  .unit-offset-l-0 {
-    margin-left: 0;
-  }
-
-  .unit-push-l-0,
-  .unit-pull-l-0 {
-    left: 0;
-  }
-
   .unit-l-1-2,
   .l-1-2 {
     width: 50%;
-  }
-
-  .unit-offset-l-1-2 {
-    margin-left: 50%;
-  }
-
-  .unit-push-l-1-2 {
-    left: 50%;
-  }
-
-  .unit-pull-l-1-2 {
-    left: -50%;
   }
 
   .unit-l-1-3,
@@ -794,33 +566,9 @@
     width: 33.3333%;
   }
 
-  .unit-offset-l-1-3 {
-    margin-left: 33.3333%;
-  }
-
-  .unit-push-l-1-3 {
-    left: 33.3333%;
-  }
-
-  .unit-pull-l-1-3 {
-    left: -33.3333%;
-  }
-
   .unit-l-2-3,
   .l-2-3 {
     width: 66.6667%;
-  }
-
-  .unit-offset-l-2-3 {
-    margin-left: 66.6667%;
-  }
-
-  .unit-push-l-2-3 {
-    left: 66.6667%;
-  }
-
-  .unit-pull-l-2-3 {
-    left: -66.6667%;
   }
 
   .unit-l-1-4,
@@ -828,33 +576,9 @@
     width: 25%;
   }
 
-  .unit-offset-l-1-4 {
-    margin-left: 25%;
-  }
-
-  .unit-push-l-1-4 {
-    left: 25%;
-  }
-
-  .unit-pull-l-1-4 {
-    left: -25%;
-  }
-
   .unit-l-3-4,
   .l-3-4 {
     width: 75%;
-  }
-
-  .unit-offset-l-3-4 {
-    margin-left: 75%;
-  }
-
-  .unit-push-l-3-4 {
-    left: 75%;
-  }
-
-  .unit-pull-l-3-4 {
-    left: -75%;
   }
 
   .unit-l-1-2,
@@ -971,30 +695,9 @@
     width: 100%;
   }
 
-  .unit-offset-xl-0 {
-    margin-left: 0;
-  }
-
-  .unit-push-xl-0,
-  .unit-pull-xl-0 {
-    left: 0;
-  }
-
   .unit-xl-1-2,
   .xl-1-2 {
     width: 50%;
-  }
-
-  .unit-offset-xl-1-2 {
-    margin-left: 50%;
-  }
-
-  .unit-push-xl-1-2 {
-    left: 50%;
-  }
-
-  .unit-pull-xl-1-2 {
-    left: -50%;
   }
 
   .unit-xl-1-3,
@@ -1002,33 +705,9 @@
     width: 33.3333%;
   }
 
-  .unit-offset-xl-1-3 {
-    margin-left: 33.3333%;
-  }
-
-  .unit-push-xl-1-3 {
-    left: 33.3333%;
-  }
-
-  .unit-pull-xl-1-3 {
-    left: -33.3333%;
-  }
-
   .unit-xl-2-3,
   .xl-2-3 {
     width: 66.6667%;
-  }
-
-  .unit-offset-xl-2-3 {
-    margin-left: 66.6667%;
-  }
-
-  .unit-push-xl-2-3 {
-    left: 66.6667%;
-  }
-
-  .unit-pull-xl-2-3 {
-    left: -66.6667%;
   }
 
   .unit-xl-1-4,
@@ -1036,33 +715,9 @@
     width: 25%;
   }
 
-  .unit-offset-xl-1-4 {
-    margin-left: 25%;
-  }
-
-  .unit-push-xl-1-4 {
-    left: 25%;
-  }
-
-  .unit-pull-xl-1-4 {
-    left: -25%;
-  }
-
   .unit-xl-3-4,
   .xl-3-4 {
     width: 75%;
-  }
-
-  .unit-offset-xl-3-4 {
-    margin-left: 75%;
-  }
-
-  .unit-push-xl-3-4 {
-    left: 75%;
-  }
-
-  .unit-pull-xl-3-4 {
-    left: -75%;
   }
 
   .unit-xl-1-2,
